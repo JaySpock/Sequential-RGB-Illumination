@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Apr 08 14:57:44 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : mainOperationalAndCalibration
+Top-level Entity Name : mainOperationalAndCalibration
+Family : Cyclone 10 LP
+Device : 10CL006YE144C6G
+Timing Models : Final
+Total logic elements : 844 / 6,272 ( 13 % )
+    Total combinational functions : 642 / 6,272 ( 10 % )
+    Dedicated logic registers : 601 / 6,272 ( 10 % )
+Total registers : 601
+Total pins : 13 / 89 ( 15 % )
+Total virtual pins : 0
+Total memory bits : 896 / 276,480 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

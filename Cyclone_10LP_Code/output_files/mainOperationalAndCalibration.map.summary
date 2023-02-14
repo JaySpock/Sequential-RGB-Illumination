@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Apr 08 14:57:25 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : mainOperationalAndCalibration
+Top-level Entity Name : mainOperationalAndCalibration
+Family : Cyclone 10 LP
+Total logic elements : 888
+    Total combinational functions : 639
+    Dedicated logic registers : 608
+Total registers : 608
+Total pins : 13
+Total virtual pins : 0
+Total memory bits : 896
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
