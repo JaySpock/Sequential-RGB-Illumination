@@ -2,13 +2,13 @@
 This codebase is designed to synchronize an RGB LED illumination system with the rolling shutter of a NanEye2D monochrome camera and display real-time color video dependent on a calibration step and linear unmixing algorithm. This allows color video to be produced from an image sensor with no Bayer mask, increasing the effective spatial resolution. For extremely small cameras such as those used in medical imaging and endoscopy with an imaging area of only 250x250 pixels this increased resolution can make a large difference in the usability of the images.
 
 More information about the equipment, example image/video outputs, and quantitative results of this system can be found in:
-* Cite our manuscript
+* Future paper citation
 
 Please feel free to reach out to Jordan Anspach at jordananspach@gmail.com with any questions. More details and documentation is available by request.
 
 ## Instructions for Use
 A video of the system being demonstrated can be found at: https://doi.org/10.6084/m9.figshare.22639246.v1
-1) The main GUI file is the "NaneyeinterfaceUSB2.m" file in the MATLAB folder. Run this to start the program. This code is an edited version of the MATLAB API available from ams for use with their cameras and interface modules. This API can be found on their website: https://ams.com/en/naneye#tab/tools
+1) The main GUI file is the `NaneyeinterfaceUSB2.m` file in the MATLAB folder. Run this to start the program. This code is an edited version of the MATLAB API available from ams for use with their cameras and interface modules. This API can be found on their website: https://ams.com/en/naneye#tab/tools
 2) Place a completely white target such that it covers the entire imaging area and click the "Calibrate" button.
 3) Adjust camera register values as desired.
 4) Let the calibration process run for at least a couple seconds to ensure adequate images are saved and then click the "End Calibration" button.
