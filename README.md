@@ -2,7 +2,7 @@
 This codebase is designed to synchronize an RGB LED illumination system with the rolling shutter of a NanEye2D monochrome camera and display real-time color video dependent on a calibration step and linear unmixing algorithm. This allows color video to be produced from an image sensor with no Bayer mask, increasing the effective spatial resolution. For extremely small cameras such as those used in medical imaging and endoscopy with an imaging area of only 250x250 pixels this increased resolution can make a large difference in the usability of the images.
 
 More information about the equipment, example image/video outputs, and quantitative results of this system can be found in:
-* [Future paper citation](https://doi.org/10.1364/AO.488272)
+* https://doi.org/10.1364/AO.488272
 
 Please feel free to reach out to Jordan Anspach at jordananspach@gmail.com with any questions. More details and documentation is available by request.
 
